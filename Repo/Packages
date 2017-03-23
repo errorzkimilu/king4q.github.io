@@ -1,0 +1,47 @@
+Package: OpenSSH.deb
+Version: 7.4p1-6
+Architecture: iphoneos-Arm
+Maintainer: On this Repo King4q
+Depends: OpenSSH.deb
+Filename: .///debs/OpenSSH.Deb
+Size: 368
+MD5sum: 3e334a8445e88d9fd8bc8266caf5ffe7
+SHA1: 6f64cf0e4f60d98ea5db0d87432167b44ea74476
+SHA256: bb17fa582f3265124622c460fbc5de8f76b5db978d39036b2dcf303ecbbe4be2
+Section: Tweaks
+Description: OpenSSH CHANGE YOUR ROOT PASSWORD!!!!!!!!!!!!!!
+Author: IDK
+Depiction: https://king4q.github.io
+Name: OpenSSH
+
+Package: iCleaner.deb
+Version: 7.5.6
+Architecture: iphoneos-Arm
+Maintainer: On this Repo King4q
+Depends: icleaner.deb
+Filename: .///debs/icleaner.deb
+Size: 2211840
+MD5sum: e275b707a4e62190096d58bfcb76598b
+SHA1: 575766aaab4caa4ac11a4249e4ebcad47347f4c1
+SHA256: 79a4f512bf66f46314bcb41dbda7a62fe8f71d87d548fd78659bcdd2ebdcabd4
+Section: Tweaks
+Description: cleans off excess from tweaks
+Author: IDK
+Depiction: https://king4q.github.io
+Name: iCleaner Pro
+
+Package: mobilesubstrate
+Version: 0.9.6301
+Architecture: iphoneos-Arm
+Maintainer: On this Repo King4q
+Depends: mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Filename: .///debs/mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 122880
+MD5sum: F2CA15C08AAB522D8B7E842238AA83C6
+SHA1: 02AD8DCE33ADAE8BA256DD5A4CAC3BDF0246DEEC
+SHA256: 8DC91A066F088632409FECF65613831B8D6802E3B799F2DC87563C3EA2ED06CA
+Section: System
+Description: allows tweaks for cydia to run
+Author: Saurik
+Depiction: https://king4q.github.io
+Name: Cydia Substrate

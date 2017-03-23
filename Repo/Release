@@ -1,0 +1,7 @@
+Origin: King's Repo
+Label: stable
+Suite: 10.6
+Codename: King
+Architectures: iphoneos-arm
+Components: main
+Description: A Test Repo thats slowly growing very slowly very slowly
